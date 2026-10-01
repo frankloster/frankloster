@@ -11,12 +11,17 @@ Software developer with around seven years of experience building and maintainin
 **Development**  
 TypeScript · JavaScript · React · Next.js · Astro · Node.js · PHP · WordPress · WooCommerce
 
-**Systems & Automation**  
-Linux · Windows · Git · APIs · n8n · DNS · Cloudflare · Hosting · Troubleshooting
+**Data & Backend**  
+PostgreSQL · MySQL · Supabase · Firebase
 
-**Cybersecurity — ongoing specialization**  
-Blue Team · Defensive Security · Risk Assessment & Prioritization  
-NIST CSF 2.0 · MITRE ATT&CK · MITRE D3FEND · CIS Controls · Security Labs
+**Systems & Infrastructure**  
+Linux · Windows · VPS · cPanel · DNS · Cloudflare · Hosting · SMTP
+
+**Automation**  
+APIs · n8n · Webhooks · Integrations
+
+**Cybersecurity**  
+Blue Team · Defensive Security · Risk Assessment · NIST CSF · MITRE ATT&CK · CIS Controls · Security Labs
 
 ## Selected Work
 
