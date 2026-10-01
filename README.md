@@ -4,7 +4,7 @@
 
 Software developer with around seven years of experience building and maintaining web applications, e-commerce systems and integrations. I work across application development, web infrastructure and automation, while developing practical skills in defensive security.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-30363D?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-30363D?style=flat-square&logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-30363D?style=flat-square&logo=nodedotjs&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-30363D?style=flat-square&logo=linux&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-30363D?style=flat-square&logo=n8n&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-30363D?style=flat-square&logo=wordpress&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-30363D?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-30363D?style=flat-square&logo=javascript&logoColor=white) ![React](https://img.shields.io/badge/React-30363D?style=flat-square&logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-30363D?style=flat-square&logo=nodedotjs&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-30363D?style=flat-square&logo=linux&logoColor=white) ![Git](https://img.shields.io/badge/Git-30363D?style=flat-square&logo=git&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-30363D?style=flat-square&logo=n8n&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-30363D?style=flat-square&logo=wordpress&logoColor=white)
 
 ## What I work with
 
