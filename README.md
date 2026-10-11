@@ -4,12 +4,12 @@
 
 Software developer with professional experience across web applications, e-commerce, integrations, automation and web infrastructure. Currently deepening my skills in defensive cybersecurity and systems engineering.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-30363D?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-30363D?style=flat-square&logo=javascript&logoColor=white) ![React](https://img.shields.io/badge/React-30363D?style=flat-square&logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-30363D?style=flat-square&logo=nodedotjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-30363D?style=flat-square&logo=postgresql&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-30363D?style=flat-square&logo=linux&logoColor=white) ![Git](https://img.shields.io/badge/Git-30363D?style=flat-square&logo=git&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-30363D?style=flat-square&logo=n8n&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-30363D?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-30363D?style=flat-square&logo=javascript&logoColor=white) ![Python](https://img.shields.io/badge/Python-30363D?style=flat-square&logo=python&logoColor=white) ![React](https://img.shields.io/badge/React-30363D?style=flat-square&logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-30363D?style=flat-square&logo=nodedotjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-30363D?style=flat-square&logo=postgresql&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-30363D?style=flat-square&logo=linux&logoColor=white) ![Git](https://img.shields.io/badge/Git-30363D?style=flat-square&logo=git&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-30363D?style=flat-square&logo=n8n&logoColor=white)
 
 ## What I work with
 
 **Development**  
-TypeScript · JavaScript · React · Next.js · Astro · Node.js · PHP · WordPress · WooCommerce
+TypeScript · JavaScript · Python · React · Next.js · Astro · Node.js · PHP · WordPress · WooCommerce
 
 **Data & Backend**  
 PostgreSQL · MySQL · Supabase · Firebase
