@@ -9,7 +9,7 @@ Software developer with professional experience across web applications, e-comme
 ## What I work with
 
 **Development**  
-Python · Bash · TypeScript · React · Next.js · Astro · Node.js · PHP · WordPress · WooCommerce
+Python · Bash · TypeScript · JavaScript · React · Next.js · Astro · Node.js · PHP · WordPress · WooCommerce
 
 **Data & Backend**  
 PostgreSQL · MySQL · Supabase · Firebase
